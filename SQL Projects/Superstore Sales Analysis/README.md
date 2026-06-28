@@ -97,3 +97,8 @@ The dataset contains information related to:
 - Develop predictive models for sales forecasting.
 - Perform customer segmentation and profitability analysis.
 
+---
+
+## 👨‍💻 Author
+
+**Tanishk Agarwal**  
