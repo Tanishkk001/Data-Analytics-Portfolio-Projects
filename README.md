@@ -38,14 +38,12 @@ I enjoy transforming raw data into actionable insights using analytical thinking
 
 # 📂 Projects
 
-## 📸 Instagram Clone Database Analysis | SQL | MySQL
-Designed and analyzed an Instagram-style relational database to study user engagement and platform growth.
+## 📸 Superstore Sales Analytics| SQL | MySQL
+Designed and analyzed an Superstore Sales relational database to study user engagement and platform growth.
 
 ### Key Highlights
-- Database Design and Schema Creation
-- Complex SQL Queries using JOINs, CTEs, and Window Functions
-- User Engagement Analysis
-- Hashtag and Content Analysis
+- Designed and queried a sales database containing 5,000+ orders to analyze revenue, profitability, and regional performance.
+- Utilized JOINs, CTEs, Window Functions, Aggregate Functions, and CASE statements to answer business questions and generate actionable insights.
 - Business Insights Generation
 
 **Skills:** SQL, MySQL, Data Analysis, Database Design
